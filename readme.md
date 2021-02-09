@@ -1,0 +1,1 @@
+This is my first project ever, first one of The Odin Project curriculum. It took me a long time to do this project, but I never gave up and learned alot. Mostly I learned about DOM manipulation and javascript overall. I feel like it was a good project to get some basics down to further keep building new projects. Worth the investment of time for sure.
